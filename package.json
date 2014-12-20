@@ -1,0 +1,15 @@
+{
+  "name": "astrid",
+  "version": "1.0.0",
+  "description": "It's simple, proxying is always better.",
+  "main": "astrid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proxy",
+    "astrid"
+  ],
+  "author": "",
+  "license": "ISC"
+}
